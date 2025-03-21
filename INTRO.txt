@@ -1,0 +1,8 @@
+INTRO
+Hi, I was born and brouhgt up in Hyderabad, India.
+After my gradution, I started working as a techinal support analyst for a US based company.
+I decided to pursue masters as it provides ample opportunities to learn, grow and also helps to inculcate critical life skills. in UK as UK has high quality teaching standards which would get international exposure  I graduated with msc. managing innovation and IT from the Uni of Salford, Manchester. Im looking for a challenging role where i can apply my skills and also gather technical knowledge which will help me to work more efficiently and effectively.
+
+As a Technical Support Analyst, I was mainly involved in improving the existing IT ticket management helpdesk to enhance efficiency and user experience. I was working primarily with the development team to implement approved enhancements to ensure projects meet the quality standards and are delivered on time. 
+On a daily basis, I was monitoring the performance of automation system and implemented optimizations to improve efficiency and reliability. My tasks included conducting root cause analysis to indentify issues and implement preventive measures to minimise future problems.
+Collaborated with stakeholders to gather requirements for system enhancements like improvements in ticket prioritization, categorization and creating reports etc. Using SQl queries to generate custom reports for data analysis and troubleshooting purposes and optimizing system performance.
