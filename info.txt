@@ -1,0 +1,3 @@
+information doc
+info about git and github
+practising git bash
